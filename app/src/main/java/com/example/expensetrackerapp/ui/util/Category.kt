@@ -6,17 +6,17 @@ import androidx.compose.ui.graphics.vector.ImageVector
 import com.example.expensetrackerapp.R
 
 val categoriesImage = mapOf<String,Int>(
-    "Foods" to R.drawable.foods,
-    "Bills" to R.drawable.bills,
-    "Family" to R.drawable.family,
-    "Fuel" to R.drawable.fuel,
-    "Phone" to R.drawable.phone,
-    "Education" to R.drawable.education,
-    "Transport" to R.drawable.transport,
-    "Shopping" to R.drawable.shop
+    "Đồ ăn" to R.drawable.foods,
+    "Hóa đơn" to R.drawable.bills,
+    "Gia đình" to R.drawable.family,
+    "Nhiên liệu" to R.drawable.fuel,
+    "Công nghệ" to R.drawable.phone,
+    "Giáo dục" to R.drawable.education,
+    "Di chuyển" to R.drawable.transport,
+    "Mua sắm" to R.drawable.shop
 )
 
 val categoriesTitle = listOf<String>(
-    "Foods","Bills","Family","Fuel","Phone","Education","Transport","Shopping"
+    "Đồ ăn","Hóa đơn","Gia đình","Nhiên liệu","Công nghệ","Giáo dục","Di chuyển","Mua sắm"
 )
 

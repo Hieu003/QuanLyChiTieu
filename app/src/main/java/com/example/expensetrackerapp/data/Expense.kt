@@ -14,7 +14,7 @@ data class Expense(
     @ColumnInfo(name = "description")
     var description:String = "",
     @ColumnInfo(name = "category")
-    var category:String = "Foods",
+    var category:String = "Đồ ăn",
     @ColumnInfo(name = "date")
     var date:Long = System.currentTimeMillis()
 )
